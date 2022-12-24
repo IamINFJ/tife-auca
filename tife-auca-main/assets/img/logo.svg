@@ -1,6 +1,0 @@
-<svg width="1000" height="400" viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M150 0H0V100H150V400H250V100V0H150Z" fill="#323232"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M400 0H300V100H400V0ZM400 150H300V400H400V150Z" fill="#323232"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M700 0H550H450V100V400H550V100H700V0ZM700 150H600V250H700V150Z" fill="#323232"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M850 0H1000V100H850V300H1000V400H850H750V300V100V0H850ZM1000 150H900V250H1000V150Z" fill="#323232"/>
-</svg>
